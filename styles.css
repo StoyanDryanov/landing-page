@@ -46,7 +46,7 @@ body{
     width: 400px;
 }
 
-.info p,h2 {
+.info p h2 {
     color: white;
 }
 
